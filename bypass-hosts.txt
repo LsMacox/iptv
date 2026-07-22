@@ -1,6 +1,5 @@
 151.80.18.177
 176.118.197.101
-23.237.104.106
 31.148.48.15
 45.145.32.13
 45.190.28.50
@@ -39,6 +38,7 @@ donmedia.bonus-tv.ru
 dz05z8iljgvbe.cloudfront.net
 dzkyvlfyge.erbvr.com
 fastly.live.brightcove.com
+gpuserver3.tier1streams.com
 hls.mirtv.cdnvideo.ru
 igi-hls.cdnvideo.ru
 ingushetia.mediacdn.ru
@@ -64,6 +64,7 @@ rusbrics.mediacdn.ru
 russian-livews.cgtn.com
 sdn-global-live-streaming-packager-cache.3qsdn.com
 sirius.greenhosting.ru
+starlite.best
 stream.mcquack.net
 stream8.cinerama.uz
 streams2.sofast.tv
