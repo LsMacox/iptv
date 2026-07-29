@@ -40,7 +40,6 @@ dk0n7jh428tzj.cloudfront.net
 donmedia.bonus-tv.ru
 dz05z8iljgvbe.cloudfront.net
 dzkyvlfyge.erbvr.com
-fastly.live.brightcove.com
 gpuserver3.tier1streams.com
 hls.mirtv.cdnvideo.ru
 igi-hls.cdnvideo.ru
